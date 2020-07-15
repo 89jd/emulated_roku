@@ -29,8 +29,8 @@ INFO_TEMPLATE = """<?xml version="1.0" encoding="UTF-8" ?>
     <manufacturer>Roku</manufacturer>
     <manufacturerURL>http://www.roku.com/</manufacturerURL>
     <modelDescription>Emulated Roku</modelDescription>
-    <modelName>Roku 4</modelName>
-    <modelNumber>4400x</modelNumber>
+    <modelName>Roku Ultra</modelName>
+    <modelNumber>4670R</modelNumber>
     <modelURL>http://www.roku.com/</modelURL>
     <serialNumber>{usn}</serialNumber>
     <UDN>uuid:{uuid}</UDN>
@@ -43,8 +43,8 @@ DEVICE_INFO_TEMPLATE = """<device-info>
     <serial-number>{usn}</serial-number>
     <device-id>{usn}</device-id>
     <vendor-name>Roku</vendor-name>
-    <model-number>4400X</model-number>
-    <model-name>Roku 4</model-name>
+    <model-number>4670R</model-number>
+    <model-name>Roku Ultra</model-name>
     <model-region>US</model-region>
     <supports-ethernet>true</supports-ethernet>
     <wifi-mac>00:00:00:00:00:00</wifi-mac>
