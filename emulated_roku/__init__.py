@@ -63,14 +63,14 @@ DEVICE_INFO_TEMPLATE = """<device-info>
     <supports-suspend>false</supports-suspend>
     <supports-find-remote>false</supports-find-remote>
     <supports-audio-guide>false</supports-audio-guide>
-    <developer-enabled>false</developer-enabled>
+    <developer-enabled>true</developer-enabled>
     <keyed-developer-id>0000000000000000000000000000000000000000</keyed-developer-id>
     <search-enabled>false</search-enabled>
     <voice-search-enabled>false</voice-search-enabled>
     <notifications-enabled>false</notifications-enabled>
     <notifications-first-use>false</notifications-first-use>
-    <supports-private-listening>false</supports-private-listening>
-    <headphones-connected>false</headphones-connected>
+    <supports-private-listening>true</supports-private-listening>
+    <headphones-connected>true</headphones-connected>
 </device-info>
 """
 
